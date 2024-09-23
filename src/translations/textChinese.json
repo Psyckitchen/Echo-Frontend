@@ -1,0 +1,63 @@
+{
+	"intro": {
+		"title": "Echo 回声科技",
+		"description": "念念不忘 必有回响"
+	},
+	"feature": {
+		"title": "Features",
+		"description": "Echo回声科技是一个致力于融合人工智能与心理学创新的团队，专注于开发智能心理健康解决方案。我们的核心产品Echo GPT利用临床心理模型，通过AI对话、情感陪伴、精准诊断及个性化技能培训，为用户提供全面的心理支持。我们致力于打破传统心理健康服务的障碍，为全球用户打造下一代心理健康服务。"
+	},
+	"spotlight": {
+		"title": "Spotlights",
+		"point1": {
+			"title": "全天候支持",
+			"description": ""
+		},
+		"point2": {
+			"title": "双聊天模式",
+			"description": ""
+		},
+		"point3": {
+			"title": "动态更新心理健康档案",
+			"description": ""
+		},
+		"point4": {
+			"title": "应用临床心理咨询模型",
+			"description": ""
+		},
+		"point5": {
+			"title": "诊断优势",
+			"description": ""
+		},
+		"point6": {
+			"title": "循证疗法推荐",
+			"description": ""
+		},
+		"point7": {
+			"title": "日常陪伴与技巧训练",
+			"description": ""
+		}
+	},
+	"meetMembers": {
+		"title": "Meet Members",
+		"person1": {
+			"name": "",
+			"info": ""
+		},
+		"person2": {
+			"name": "",
+			"info": ""
+		},
+		"person3": {
+			"name": "",
+			"info": ""
+		},
+		"person4": {
+			"name": "",
+			"info": ""
+		}
+	},
+	"contact": {
+		"title": "Contact"
+	}
+}

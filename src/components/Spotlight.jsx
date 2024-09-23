@@ -3,7 +3,7 @@ import Image from "next/image"
 const Spotlight = ( {spotlightHead, spotlightText, imgSrc} ) => {
 	return (
 		<>
-			<div className="spotlight">
+			<div className="spotlight bg-pink">
 				<div className="spotlight-textbox">
 					<h3 className="spotlight-head text-darkblue">
 						{spotlightHead}
@@ -14,6 +14,7 @@ const Spotlight = ( {spotlightHead, spotlightText, imgSrc} ) => {
 				</div>
 				<Image 
 					className="spotlight-img"
+					alt="spotlight img"
 					src="/images/test.jpg"
 					width="1000"
 					height="1000"/>
