@@ -1,0 +1,67 @@
+{
+	"intro": {
+		"title": "Echo",
+		"description": "Echoing back what you hold onto"
+	},
+	"feature": {
+		"title": "Features",
+		"description":"Echo Technology is a team dedicated to fusing artificial intelligence and psychology innovation, focusing on developing smart mental health solutions. Our core product, Echo GPT, utilizes clinical psychological models to provide comprehensive psychological support through AI conversations, emotional companionship, accurate diagnosis and personalized skills training. We are committed to breaking down the barriers of traditional mental health services and creating the next generation of mental health services for users around the world."
+	},
+	"spotlight": {
+		"title": "Spotlights",
+		"point1": {
+			"title": "Round-the-clock support",
+			"description": "24/7 mental health support through an AI-powered smartwatch"
+		},
+		"point2": {
+			"title": "Dual Chat Modes",
+			"description": "Daily emotional companionship and psychological counseling to suit your needs"
+		},
+		"point3": {
+			"title": "Dynamic Mental Health Profile Updates",
+			"description": "Continuous updates to your mental health profile for personalized support"
+		},
+		"point4": {
+			"title": "Clinical Counseling Model",
+			"description": "Proactive application of clinical psychological models for emotional accompaniment and validation"
+		},
+		"point5": {
+			"title": "Diagnostic Advantages",
+			"description": "Analyze mental state through gradual conversation to avoid discomfort and avoidence"
+		},
+		"point6": {
+			"title": "Evidence-based Therapy Recommendations",
+			"description": "Tailored therapy suggestions based on the latest research and your personal data"
+		},
+		"point7": {
+			"title": "Daily Companionship and Skills Training",
+			"description": "Guidance through various psychological skill training exercises for continuous improvement"
+		}
+	},
+	"meetMembers": {
+		"title": "Meet Members",
+		"person1": {
+			"name": "Sara",
+			"role": "Founder CEO",
+			"info": ""
+		},
+		"person2": {
+			"name": "Yifei",
+			"role": "Founder CXO",
+			"info": ""
+		},
+		"person3": {
+			"name": "Gu",
+			"role": "Co-Founder",
+			"info": ""
+		},
+		"person4": {
+			"name": "",
+			"role": "",
+			"info": ""
+		}
+	},
+	"contact": {
+		"title": "Contact"
+	}
+}

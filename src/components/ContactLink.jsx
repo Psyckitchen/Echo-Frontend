@@ -4,6 +4,7 @@ const ContactLink = ( {contactInfo}) => {
 		<>
 			<Image 
 				className="contact" 
+				alt="contact"
 				src="/images/test.jpg"
 				width="1000"
 				height="1000"/>
