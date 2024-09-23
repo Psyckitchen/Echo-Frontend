@@ -3,6 +3,7 @@ import Page from '@components/Page';
 import Spotlight from "@components/Spotlight";
 import TeamInfo from "@components/TeamInfo";
 import ContactLink from "@components/ContactLink";
+import t from "@translations/text.json"
 
 
 export default function Home() {
@@ -13,10 +14,10 @@ export default function Home() {
         {/* Intro */}
         <Page className="page-visible flex-col flex-wrap bg-darkblue">
           <h1 className="head-text text-center sm:mb-10 mb-5 text-white">
-            Echo
+            {t.intro.title}
           </h1>
           <h3 className="head3-text text-center mx-5 text-white">
-            We echo back your voice 
+            {t.intro.description}
           </h3>
         </Page>
         
@@ -25,10 +26,10 @@ export default function Home() {
         <Page className="flex-row bg-pink">
           <div className="w-full feature-desc flex flex-col mt-14 ml-10 text-darkblue">
             <h2 className="head2-text text-xl md:mb-10 mb-5">
-              Features
+              {t.feature.title}
             </h2>
             <p className="feature-text">
-              Lorem ipsum dolor sit amet maiores quo perferendis eaque necessitatibus sit? Reiciendis iste blanditiis reprehenderit cum!
+              {t.feature.description}
             </p>
           </div>
 
@@ -49,7 +50,7 @@ export default function Home() {
         <Page className="flex-row flex-wrap content-center bg-darkblue">
           <div className="spotlight flex flex-col justify-center">
             <h2 className="spotlight-head text-pink">
-              Spotlights
+              {t.spotlight.title}
               </h2>
           </div>
           <Spotlight spotlightHead={"this is a title"} spotlightText={"asdfasdf asdbasdfa sd fasdffv hgdjs kvbhs kn"}/>
@@ -61,10 +62,10 @@ export default function Home() {
           <Spotlight spotlightHead={"this is a title"} spotlightText={"asdfasdf asdbasdfa sd fasdffv hgdjs kvbhs kn"}/>
         </Page>
 
-        {/* Team Info */}
+        {/* Meet Members */}
         <Page className="flex-col content-center bg-darkblue">
           <h1 className="head2-text text-center mb-16 text-pink">
-            Meet members
+            {t.meetMembers.title}
           </h1>
           <div className="grid lg:grid-cols-4 grid-cols-2 gap-8 md:mx-48 mx-12 text-pink">
             <TeamInfo memberName={"sadf"} memberInfo={"this is a breif intro of yourselfasdf asdf asdf afsdasdf"} />
@@ -74,9 +75,9 @@ export default function Home() {
           </div>
         </Page>
 
-        {/* Contact Link */}
+        {/* Contact */}
         <Page className="page-visible flex-col bg-peach">
-          <h1 className="head2-text text-center mb-16 text-white">Contact</h1>
+          <h1 className="head2-text text-center mb-16 text-white">{t.contact.title}</h1>
           <div className="flex flex-row justify-between md:mx-48 mx-12">
             <ContactLink contactInfo={"info1"} />
             <ContactLink contactInfo={"info2"} />

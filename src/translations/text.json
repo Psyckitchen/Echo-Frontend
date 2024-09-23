@@ -1,0 +1,19 @@
+{
+	"intro": {
+		"title": "Econ",
+		"description": "We echo back your voice"
+	},
+	"feature": {
+		"title": "Features",
+		"description": "Lorem ipsum dolor sit amet maiores quo perferendis eaque necessitatibus sit? Reiciendis iste blanditiis reprehenderit cum!"
+	},
+	"spotlight": {
+		"title": "Spotlights"
+	},
+	"meetMembers": {
+		"title": "Meet Members"
+	},
+	"contact": {
+		"title": "Contact"
+	}
+}
