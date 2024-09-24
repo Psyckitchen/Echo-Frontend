@@ -39,26 +39,25 @@
 		}
 	},
 	"meetMembers": {
-		"title": "Meet Members",
+		"title": "Meet Psykitchen Cooks",
+		"description": "We're brewing a mental health potion, stay tuned for the magic!",
 		"person1": {
 			"name": "Sara",
-			"role": "Founder CEO",
-			"info": ""
+			"role": "Founder & CEO",
+			"info": "",
+			"image": "/images/team/sara.jpeg"
 		},
 		"person2": {
 			"name": "Yifei",
-			"role": "Founder CXO",
-			"info": ""
+			"role": "Founder & CXO",
+			"info": "",
+			"image": "/images/team/yifei.jpeg"
 		},
 		"person3": {
 			"name": "Gu",
-			"role": "Co-Founder",
-			"info": ""
-		},
-		"person4": {
-			"name": "",
-			"role": "",
-			"info": ""
+			"role": "Co-Founder & UI/UX",
+			"info": "",
+			"image": "/images/team/gu.webp"
 		}
 	},
 	"contact": {
