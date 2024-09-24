@@ -6,7 +6,7 @@ export default (phase) => {
    * @type {import('next').NextConfig}
    */
   const nextConfig = {
-    output: "export",
+    // output: "export",
     basePath: isDev ? undefined : 'https://psyckitchen.github.io/Echo-Frontend',
     assetPrefix: isDev ? undefined : 'https://psyckitchen.github.io/Echo-Frontend'
   }
