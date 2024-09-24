@@ -73,7 +73,7 @@ export default function Home() {
           <h2 className="head2-text text-center text-pink">
             {t.meetMembers.title}
           </h2>
-          <h3 className="head3-text text-center mx-5 text-darkblue">
+          <h3 className="head3-text text-center mx-5 text-white">
             {t.meetMembers.description}
           </h3>
           <div className="flex items-center justify-center gap-8 md:mx-48 mx-12 text-pink">
