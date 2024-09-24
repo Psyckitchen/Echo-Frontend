@@ -19,6 +19,9 @@ module.exports = {
         "lightpink":"#FFE3E1",
         "yellow":"#FFF5E4"
       },
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+      },
     },
   },
   plugins: [],
