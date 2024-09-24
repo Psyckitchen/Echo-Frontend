@@ -50,7 +50,7 @@
 }
 
 .spotlight-head {
-  @apply lg:text-2xl font-extrabold;
+  @apply md:text-3xl text-xl font-extrabold;
 }
 
 .spotlight-img{
