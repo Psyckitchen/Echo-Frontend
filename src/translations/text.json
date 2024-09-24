@@ -45,19 +45,22 @@
 			"name": "Sara",
 			"role": "Founder & CEO",
 			"info": "",
-			"image": "/images/team/sara.jpeg"
+			"image": "/images/team/sara.jpeg",
+			"linkedin": "https://www.linkedin.com/in/xingyu-sara-chen-478b5018b/" 
 		},
 		"person2": {
 			"name": "Yifei",
 			"role": "Founder & CXO",
 			"info": "",
-			"image": "/images/team/yifei.jpeg"
+			"image": "/images/team/yifei.jpeg",
+			"linkedin": "https://www.linkedin.com/in/yifei-tang-0b976a31a/" 
 		},
 		"person3": {
 			"name": "Gu",
 			"role": "Co-Founder & UI/UX",
 			"info": "",
-			"image": "/images/team/gu.webp"
+			"image": "/images/team/gu.webp",
+			"linkedin": "" 
 		}
 	},
 	"contact": {
