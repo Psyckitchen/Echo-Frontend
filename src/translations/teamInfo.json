@@ -1,0 +1,27 @@
+{
+	"title": "Meet Psykitchen Cooks",
+	"description": "We're brewing a mental health potion, stay tuned for the magic!",
+	"members": [
+		{
+			"name": "Xingyu Chen",
+			"role": "Founder & CEO",
+			"info": "",
+			"image": "/images/team/sara.jpeg",
+			"linkedin": "https://www.linkedin.com/in/xingyu-sara-chen-478b5018b/"
+		},
+		{
+			"name": "Yifei Tang",
+			"role": "Founder & CXO",
+			"info": "",
+			"image": "/images/team/yifei.jpeg",
+			"linkedin": "https://www.linkedin.com/in/yifei-tang-0b976a31a/"
+		},
+		{
+			"name": "Gu Xuyu",
+			"role": "Co-Founder & UI/UX",
+			"info": "",
+			"image": "/images/team/gu.jpg",
+			"linkedin": ""
+		}
+	]
+}
